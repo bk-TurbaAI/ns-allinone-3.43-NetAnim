@@ -10,8 +10,8 @@ Following steps:
 
 
 ```shell
-git clone https://github.com/bk-TurbaAI/ns-allinone-3.43.git
-cd ns-allinone-3.43
+git clone https://github.com/bk-TurbaAI/ns-allinone-3.43-NetAnim.git
+cd ns-allinone-3.43-NetAnim
 ```
 
 
@@ -41,7 +41,7 @@ cd ns-3.43
 
 - Run the NetAnim tool:
 ```shell
-cd ns-allinone-3.43/ns-allinone-3.43/netanim-3.109
+cd ns-allinone-3.43-NetAnim3/netanim-3.109
 ./NetAnim
 ```
 
